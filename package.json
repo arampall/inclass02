@@ -1,0 +1,11 @@
+{
+  "name": "inclass01",
+  "version": "1.0.0",
+  "description": "A simple app with user login and signup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Achyut",
+  "license": "ISC"
+}
